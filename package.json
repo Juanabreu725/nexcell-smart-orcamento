@@ -1,0 +1,10 @@
+{
+  "name": "nexcell-smart-orcamento",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Orçamentos estáticos Nexcell, sem dependências de produção",
+  "scripts": {
+    "dev": "node tools/preview.cjs",
+    "test": "node --test tests/core.test.cjs"
+  }
+}
